@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Git Commands Cheat Sheet</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: white;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      margin-bottom: 30px;
+    }
+    th, td {
+      padding: 12px;
+      border: 1px solid #ddd;
+      text-align: left;
+      vertical-align: top;
+    }
+    th {
+      background-color: #333;
+      color: white;
+    }
+    code {
+      background-color: #eee;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: monospace;
+    }
+    .section-title {
+      background-color: #555;
+      color: white;
+      font-weight: bold;
+      text-align: center;
+      font-size: 1.1em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Git Commands Cheat Sheet</h1>
+  <table>
+    <tr><th>Command</th><th>Description</th></tr>
+
+    <!-- Setup -->
+    <tr><td colspan="2" class="section-title">Git Setup</td></tr>
+    <tr><td><code>git config --global user.name "Your Name"</code></td><td>Set your name</td></tr>
+    <tr><td><code>git config --global user.email "you@example.com"</code></td><td>Set your email</td></tr>
+    <tr><td><code>git config --global core.editor code</code></td><td>Set default editor to VS Code</td></tr>
+
+    <!-- Repository -->
+    <tr><td colspan="2" class="section-title">Create or Clone a Repository</td></tr>
+    <tr><td><code>git init</code></td><td>Initialize a new Git repo</td></tr>
+    <tr><td><code>git clone &lt;repo-url&gt;</code></td><td>Clone an existing repo</td></tr>
+
+    <!-- File Management -->
+    <tr><td colspan="2" class="section-title">File Status & Tracking</td></tr>
+    <tr><td><code>git status</code></td><td>Check status of files</td></tr>
+    <tr><td><code>git add &lt;file&gt;</code></td><td>Stage a specific file</td></tr>
+    <tr><td><code>git add .</code></td><td>Stage all changes</td></tr>
+    <tr><td><code>git rm &lt;file&gt;</code></td><td>Remove and stage file</td></tr>
+
+    <!-- Commit -->
+    <tr><td colspan="2" class="section-title">Committing Changes</td></tr>
+    <tr><td><code>git commit -m "message"</code></td><td>Commit staged changes</td></tr>
+    <tr><td><code>git commit -am "message"</code></td><td>Stage and commit tracked files</td></tr>
+
+    <!-- Branching -->
+    <tr><td colspan="2" class="section-title">Branching</td></tr>
+    <tr><td><code>git branch</code></td><td>List branches</td></tr>
+    <tr><td><code>git branch &lt;branch&gt;</code></td><td>Create new branch</td></tr>
+    <tr><td><code>git checkout &lt;branch&gt;</code></td><td>Switch to branch</td></tr>
+    <tr><td><code>git checkout -b &lt;branch&gt;</code></td><td>Create and switch to new branch</td></tr>
+    <tr><td><code>git merge &lt;branch&gt;</code></td><td>Merge branch into current</td></tr>
+    <tr><td><code>git branch -d &lt;branch&gt;</code></td><td>Delete a local branch</td></tr>
+
+    <!-- Push & Pull -->
+    <tr><td colspan="2" class="section-title">Push & Pull from Remote</td></tr>
+    <tr><td><code>git remote add origin &lt;url&gt;</code></td><td>Add remote repo</td></tr>
+    <tr><td><code>git remote -v</code></td><td>View remote URLs</td></tr>
+    <tr><td><code>git push</code></td><td>Push changes to remote</td></tr>
+    <tr><td><code>git push -u origin &lt;branch&gt;</code></td><td>Push new branch and set upstream</td></tr>
+    <tr><td><code>git pull</code></td><td>Pull changes from remote</td></tr>
+
+    <!-- Viewing Changes -->
+    <tr><td colspan="2" class="section-title">View Changes & History</td></tr>
+    <tr><td><code>git diff</code></td><td>Show unstaged changes</td></tr>
+    <tr><td><code>git diff --staged</code></td><td>Show staged changes</td></tr>
+    <tr><td><code>git log</code></td><td>Show commit history</td></tr>
+    <tr><td><code>git log --oneline</code></td><td>Condensed commit log</td></tr>
+    <tr><td><code>git show &lt;commit&gt;</code></td><td>Show details of a commit</td></tr>
+
+    <!-- Undo -->
+    <tr><td colspan="2" class="section-title">Undo Changes</td></tr>
+    <tr><td><code>git reset &lt;file&gt;</code></td><td>Unstage file</td></tr>
+    <tr><td><code>git checkout -- &lt;file&gt;</code></td><td>Discard changes in file</td></tr>
+    <tr><td><code>git revert &lt;commit&gt;</code></td><td>Revert a commit safely</td></tr>
+    <tr><td><code>git reset --hard &lt;commit&gt;</code></td><td>Reset to commit (destructive)</td></tr>
+
+    <!-- Tagging -->
+    <tr><td colspan="2" class="section-title">Tagging Versions</td></tr>
+    <tr><td><code>git tag</code></td><td>List tags</td></tr>
+    <tr><td><code>git tag &lt;tag&gt;</code></td><td>Create tag</td></tr>
+    <tr><td><code>git tag -a &lt;tag&gt; -m "message"</code></td><td>Create annotated tag</td></tr>
+    <tr><td><code>git push origin &lt;tag&gt;</code></td><td>Push tag to remote</td></tr>
+
+  </table>
+</body>
+</html>
