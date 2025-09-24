@@ -9,8 +9,6 @@ This project was developed as an assignment and is designed to test users’ kno
 [🎥 Watch Demo Video](Quiz/quiz-app-preview.mp4)
 
 
----
-
 ## 🚀 Features
 
 - 📑 Multiple-choice questions  
@@ -39,7 +37,6 @@ This project was developed as an assignment and is designed to test users’ kno
 - **CSS3** → Styling and layout  
 - **JavaScript (ES6)** → Logic, timer, interactivity  
 
----
 
 ## 📂Project Structure
 Quiz-App/  
@@ -52,7 +49,6 @@ Quiz-App/
 │   └── quiz-app-preview   
 └── README.md  
 
----
 
 ## 🚀 How to Use
 
@@ -61,6 +57,6 @@ Clone this repository:
 git clone https://github.com/your-username/Quiz-App.git
 
 
----
+
 
 
