@@ -1,7 +1,7 @@
 # Quiz App ⏱️
 
 A simple and interactive **Quiz Application** with a timer functionality, built using **HTML, CSS, and JavaScript**.  
-This project was developed as an assignment and is designed to test users’ knowledge with multiple-choice questions under a time limit.  
+This to test users’ knowledge with multiple-choice questions under a time limit.  
 
 ![Quiz App Preview](quiz_app_preview.png)
 
