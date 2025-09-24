@@ -3,7 +3,7 @@
 A simple and interactive **Quiz Application** with a timer functionality, built using **HTML, CSS, and JavaScript**.  
 This project was developed as an assignment and is designed to test users’ knowledge with multiple-choice questions under a time limit.  
 
-![Quiz App Preview](Quiz/Quiz_app_preview.PNG)  
+![Quiz App Preview](Quiz\Quiz_App_preview.PNG.png) 
 *Click the image to watch the demo video.*
 
 [🎥 Watch Demo Video](Quiz/quiz-app-preview.mp4)
@@ -60,6 +60,7 @@ Quiz-App/
 Clone this repository:  
 ```bash
 git clone https://github.com/your-username/Quiz-App.git
+
 
 
 
