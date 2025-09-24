@@ -40,7 +40,7 @@ This project was developed as an assignment and is designed to test users’ kno
 
 ---
 
-## 📂 Folder Structure
+## 📂Project Structure
 Quiz-App/  
 │  
 ├── index.html  
