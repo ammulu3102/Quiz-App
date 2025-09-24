@@ -48,8 +48,8 @@ Quiz-App/
 ├── style.css  
 ├── script.js   
 ├── Quiz/  
-│   ├── quiz_app_preview.PNG  
-│   └── quiz-app-preview.mp4   
+│   ├── Quiz_app_preview.PNG  
+│   └── Quiz-app-preview.mp4   
 └── README.md  
 
 ---
