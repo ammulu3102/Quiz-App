@@ -45,12 +45,10 @@ Quiz-App/
 │  
 ├── index.html  
 ├── style.css  
-├── script.js  
-│  
+├── script.js   
 ├── Quiz/  
 │   ├── quiz_app_preview.PNG  
-│   └── quiz-app-preview.mp4  
-│  
+│   └── quiz-app-preview.mp4   
 └── README.md  
 
 ---
