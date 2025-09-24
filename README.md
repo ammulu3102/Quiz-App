@@ -3,10 +3,11 @@
 A simple and interactive **Quiz Application** with a timer functionality, built using **HTML, CSS, and JavaScript**.  
 This project was developed as an assignment and is designed to test users’ knowledge with multiple-choice questions under a time limit.  
 
-![Quiz App Preview](Quiz/quiz-app-preview.PNG)  
+![Quiz App Preview](Quiz/quiz_app_preview.PNG)  
 *Click the image to watch the demo video.*
 
 [🎥 Watch Demo Video](Quiz/quiz-app-preview.mp4)
+
 
 ---
 
