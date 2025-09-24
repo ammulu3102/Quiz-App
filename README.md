@@ -49,7 +49,7 @@ Quiz-App/
 ├── script.js   
 ├── Quiz/  
 │   ├── Quiz_app_preview.PNG  
-│   └── Quiz-app-preview.mp4   
+│   └── quiz-app-preview   
 └── README.md  
 
 ---
