@@ -38,7 +38,13 @@ This to test users’ knowledge with multiple-choice questions under a time limi
 
 - **HTML5** → Page structure  
 - **CSS3** → Styling and layout  
-- **JavaScript (ES6)** → Logic, timer, interactivity  
+- **JavaScript (ES6)** → Logic, timer, interactivity
+  
+
+🧠 Responsive Quiz App
+
+A simple and responsive Quiz Application built using HTML, CSS, and JavaScript.
+It adjusts perfectly on all screen sizes — mobile, tablet, and desktop.
 
 
 ## 📂 Project Structure
@@ -52,12 +58,6 @@ Quiz-App/
 │ ├── quiz_app_preview.PNG
 │ └── quiz-app-preview.mp4
 └── README.md
-
-
-🧠 Responsive Quiz App
-
-A simple and responsive Quiz Application built using HTML, CSS, and JavaScript.
-It adjusts perfectly on all screen sizes — mobile, tablet, and desktop.
 
 
 
