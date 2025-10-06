@@ -3,14 +3,11 @@
 A simple and interactive **Quiz Application** with a timer functionality, built using **HTML, CSS, and JavaScript**.  
 This to test users’ knowledge with multiple-choice questions under a time limit.
 
-![Quiz App Preview](images./quiz_app_preview.png)
 
+![Quiz App Preview](images/quiz_app_preview.png)
 
 
 [🎥 Watch Demo Video](https://drive.google.com/file/d/10fRhiblwK0ijBiuNm4T6gtWkKVuEAmWF/view?usp=drive_link)
-
-
-
 
 ## 🚀 Features
 
@@ -32,16 +29,14 @@ This to test users’ knowledge with multiple-choice questions under a time limi
 
 ## 🛠️ Technologies Used
 
-- **HTML5** → Page structure  
-- **CSS3** → Styling and layout  
+- **HTML5** → Page structure
+- **CSS3** → Styling and layout
 - **JavaScript (ES6)** → Logic, timer, interactivity
-  
 
 🧠 Responsive Quiz App
 
 A simple and responsive Quiz Application built using HTML, CSS, and JavaScript.
 It adjusts perfectly on all screen sizes — mobile, tablet, and desktop.
-
 
 ## 📂 Project Structure
 
@@ -61,8 +56,6 @@ Quiz-App/
 
 └── README.md
 
-
-
 ## 🚀 How to Use
 
 Clone this repository:
@@ -74,3 +67,4 @@ git clone https://github.com/your-username/Quiz-App.git
 **Project URL:** (https://github.com/ammulu3102/Quiz-App.git)
 
 
+```
