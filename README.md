@@ -7,7 +7,7 @@ This to test users’ knowledge with multiple-choice questions under a time limi
 
 
 
-[🎥 Watch Demo Video]([quiz_app_preview.mp4](https://drive.google.com/file/d/10fRhiblwK0ijBiuNm4T6gtWkKVuEAmWF/view?usp=drive_link))
+[🎥 Watch Demo Video]((https://drive.google.com/file/d/10fRhiblwK0ijBiuNm4T6gtWkKVuEAmWF/view?usp=drive_link))
 
 
 
