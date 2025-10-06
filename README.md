@@ -3,7 +3,7 @@
 A simple and interactive **Quiz Application** with a timer functionality, built using **HTML, CSS, and JavaScript**.  
 This to test users’ knowledge with multiple-choice questions under a time limit.
 
-![Quiz App Preview](quiz_app_preview.png)
+![Quiz App Preview](images./quiz_app_preview.png)
 
 
 
