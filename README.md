@@ -71,6 +71,6 @@ Clone this repository:
 git clone https://github.com/your-username/Quiz-App.git
 
 
-
+**Project URL:** (https://github.com/ammulu3102/Quiz-App.git)
 
 
