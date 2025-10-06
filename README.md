@@ -7,7 +7,7 @@ This to test users’ knowledge with multiple-choice questions under a time limi
 
 
 
-[🎥 Watch Demo Video](quiz-app-preview.mp4)
+[🎥 Watch Demo Video](quiz_app_preview.mp4)
 
 
 
