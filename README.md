@@ -52,11 +52,17 @@ It adjusts perfectly on all screen sizes — mobile, tablet, and desktop.
 Quiz-App/
 │
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── Quiz/
+
 │ ├── quiz_app_preview.PNG
+
 │ └── quiz-app-preview.mp4
+
 └── README.md
 
 
