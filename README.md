@@ -54,6 +54,13 @@ Quiz-App/
 └── README.md
 
 
+🧠 Responsive Quiz App
+
+A simple and responsive Quiz Application built using HTML, CSS, and JavaScript.
+It adjusts perfectly on all screen sizes — mobile, tablet, and desktop.
+
+
+
 ## 🚀 How to Use
 
 Clone this repository:  
