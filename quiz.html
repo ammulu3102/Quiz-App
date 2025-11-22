@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Quiz App</title>
     <link rel="stylesheet" href="style.css" />
-</head>
-<body>
+  </head>
+  <body>
     <div id="quizContainer">
-    <div id="Container">
+      <div id="Container">
         <h1>Quiz Test</h1>
-        <h1>Topic: Javascript</h1>
+        <h2>Topic:Web-Questions</h2>
         <h2>Number of Questions: 20</h2>
-        <button id="start-btn" onclick="startquiz()">Start</button>
+        <button id="startBtn" onclick="startquiz()">Start</button>
+      </div>
     </div>
-    </div>
-
     <div id="quizbox" style="display: none" ;>
-    <p>⌛ Time left: <span id="timer"> 60</span> seconds</p>
-    <h2>
+      <p>⌛ Time left: <span id="timer"> 60</span> seconds</p>
+      <h2>
         Question <span id="qNumber">1</span> out of
         <span id="totalQuestions"> </span>
-    </h2>
-    <div id="question"></div>
-    <div id="options"></div>
-    <div id="score"></div>
-    <button onclick="nextQuestion()">Next</button>
+      </h2>
+      <div id="question"></div>
+      <div id="options"></div>
+      <div id="score"></div>
+      <button onclick="nextQuestion()">Next</button>
     </div>
     <div id="resultBox" style="display: none" ;>
-    <button id="playAgain"></button>
+      <div id="detailsBox"></div>
+      <button id="playAgain"></button>
     </div>
     <script src="quiz.js"></script>
-</body>
+  </body>
 </html>
